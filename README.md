@@ -11,4 +11,6 @@ The Restfull API's which are beign called were tested using postman. And these a
 /findByName
 /findByID
 /deleteByID
+
+templete folder got the web UI
 Controller: /Server/src/main/java/com/spring/test/controller
